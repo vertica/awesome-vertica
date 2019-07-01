@@ -1,11 +1,11 @@
 **If you want to add your project to `awesome-vertica` list, please fill in the below placeholders:**
 
-**[Insert URL to the list here]**
+*[Insert URL to the list here]*
 
-**[Explain what this project is about and why it should be included here]**
+*[Explain what this project is about and why it should be included here]*
 
 **Make sure that you've checked the boxes below before you submit PR:**
-- [ ] I have read the [contribution guidelines](CONTRIBUTING.md).
+- [ ] I have read the [contribution guidelines](https://github.com/vertica/awesome-vertica/blob/master/CONTRIBUTING.md).
 - [ ] I have added my project in alphabetical order to the relevant category.
 - [ ] I have used the correct format: `[item](link) - Short description.`
 - [ ] I have an appropriate description with correct spelling and grammar.
