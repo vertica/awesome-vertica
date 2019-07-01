@@ -9,6 +9,6 @@
 - [ ] I have added my project in alphabetical order to the relevant category.
 - [ ] I have used the correct format: `[item](link) - Short description.`
 - [ ] I have an appropriate description with correct spelling and grammar.
-- [ ] I know that this package was not listed before.
+- [ ] I know that this project was not listed before.
 - [ ] I have added my pull request title in the format of `Add Project-Name`.
 
