@@ -4,8 +4,6 @@ A curated list of awesome [Vertica](https://www.vertica.com/) libraries, tools a
 
 Contributions are welcome. Please take a look at the [contribution guidelines](CONTRIBUTING.md) for details.
 
-*If you see a package or project here that is no longer maintained or is not a good fit, please submit a [pull request](https://github.com/vertica/awesome-vertica/pulls) to improve this list. Thank you!*
-
 ## Contents
 
 - [Libraries](#libraries)
