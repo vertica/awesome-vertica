@@ -7,8 +7,8 @@
 **Make sure that you've checked the boxes below before you submit PR:**
 - [ ] I have read the [contribution guidelines](https://github.com/vertica/awesome-vertica/blob/master/CONTRIBUTING.md).
 - [ ] I have added my project in alphabetical order to the relevant category.
-- [ ] I have used the correct format: `[item](link) - Short description.`
+- [ ] I have used the correct format: `[item](link) - A short description ends with a period.`
 - [ ] I have an appropriate description with correct spelling and grammar.
 - [ ] I know that this project was not listed before.
-- [ ] I have added my pull request title in the format of `Add Project-Name`.
+- [ ] I have added a pull request title in the format of `Add Project-Name`.
 
