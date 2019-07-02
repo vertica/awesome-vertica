@@ -6,12 +6,15 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
 
 ## Contents
 
-- [Libraries](#libraries)
-- [Tools](#tools)
-- [Resources](#resources)
-- [Applications](#applications)
+ - [Libraries](#libraries)
+   - [Python](#python)
+ - [Tools](#tools)
+ - [Resources](#resources)
+ - [Applications](#applications)
 
 ## Libraries
+### Python
+ - [vertica-python](https://github.com/vertica/vertica-python) - Official Python driver.
 
 ## Tools
 
