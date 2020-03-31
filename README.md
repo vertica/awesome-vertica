@@ -28,7 +28,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  
 ## Examples
  - [vertica-geospatial](https://github.com/vertica/Vertica-Geospatial) - Geospatial example application.
- - [vertica-ami-packer-templates] (https://github.com/vertica/Vertica-AMI-Packer-Templates)- Vertica AMI build templates
+ - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates)- Vertica AMI build templates
  
 ## Integrations
  - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A Vertica data source for Grafana
