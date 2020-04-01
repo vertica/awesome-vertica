@@ -33,14 +33,15 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
   
 ## Integrations
  - [Apache NiFi](http://nifi.apache.org/download.html) - Data integration & ETL platform.
- - [DBVisualizer](https://www.dbvis.com/download) - Java-based SQL IDE 
- - [DBeaver](https://dbeaver.io/download/) - Java-based SQL IDE
- - [H2O Flow](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html) - Analytics & data science platform.
- - [JasperSoft](https://community.jaspersoft.com/) - Analytics, BI & ETL platform.
- - [Knime](https://www.knime.com/downloads/download-knime) - Analytics & data science platform.
- - [Pentaho](https://community.hitachivantara.com/s/article/downloads) - Analytics, BI and ETL platform.
- - [RapidMiner](https://my.rapidminer.com/nexus/account/index.html) - Analytics & data science platform.
- - [SQuirrel SQL](http://squirrel-sql.sourceforge.net/) - Java-based SQL IDE
+ - [DataGrip](https://www.jetbrains.com/datagrip/) - JDBC-based SQL IDE (Commercial Software).
+ - [DBVisualizer](https://www.dbvis.com/download) - JDBC-based SQL IDE.
+ - [DBeaver](https://dbeaver.io/download/) - JDBC-based SQL IDE.
+ - [H2O Flow](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html) - Analytics & data science platform (Commercial Software).
+ - [JasperSoft](https://community.jaspersoft.com/) - Analytics, BI & ETL platform (Commercial Software). 
+ - [Knime](https://www.knime.com/downloads/download-knime) - Analytics & data science platform (Commercial Software).
+ - [Pentaho](https://community.hitachivantara.com/s/article/downloads) - Analytics, BI and ETL platform (Commercial Software).
+ - [RapidMiner](https://my.rapidminer.com/nexus/account/index.html) - Analytics & data science platform (Commercial Software).
+ - [SQuirrel SQL](http://squirrel-sql.sourceforge.net/) - JDBC-based SQL IDE.
  - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A data source for Grafana.
 
 ## Other Resources
