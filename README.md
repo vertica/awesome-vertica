@@ -34,7 +34,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
 ## Integrations
  - [Apache NiFi](http://nifi.apache.org/download.html) - Data integration & ETL platform.
  - [DataGrip](https://www.jetbrains.com/datagrip/) - JDBC-based SQL IDE (Commercial Software).
- - [DBVisualizer](https://www.dbvis.com/download) - JDBC-based SQL IDE.
+ - [DBVisualizer](https://www.dbvis.com/download/) - JDBC-based SQL IDE.
  - [DBeaver](https://dbeaver.io/download/) - JDBC-based SQL IDE.
  - [H2O Flow](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html) - Analytics & data science platform (Commercial Software).
  - [JasperSoft](https://community.jaspersoft.com/) - Analytics, BI & ETL platform (Commercial Software). 
