@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-This is an attempt to make a curated list of high-quality, maintained, useful [Vertica](https://www.vertica.com/) related packages/projects/libraries/resources. Each item in the list must either be free and open source, or have a note which explicitly states that the software is commercial.
+This is an attempt to make a curated list of high-quality, maintained, useful [Vertica](https://www.vertica.com/) related packages/projects/libraries/resources. Each item in the list must either be free and open source, or have a note which explicitly states that the software is commercial. Commercial software should have some kind of free or community version so that users may experience it without purchasing anything.
 
 This list accepts and encourages pull requests.
 
