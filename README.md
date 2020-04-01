@@ -48,7 +48,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [Vertica Academy](https://academy.vertica.com/) - Free self-paced online Vertica courses.
  - [Vertica Blog](https://www.vertica.com/blog/) - The official blog.
  - [Vertica Documentation](https://www.vertica.com/docs/latest/HTML/Content/Home.htm) - The official documentation.
- - [Vertica Knowledgebase](https://www.vertica.com/knowledgebase/) - Short how-to's, integration guides and best practices articles.
+ - [Vertica Knowledge Base](https://www.vertica.com/knowledgebase/) - Short how-to's, integration guides, and best practices articles.
  - [Vertica Forum](https://forum.vertica.com/) - The official community forum.
 
  
