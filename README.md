@@ -27,18 +27,27 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [vertica-hyperloglog](https://github.com/criteo/vertica-hyperloglog) - HyperLogLog (approximate count distinct) UDX.
  
 ## Examples
- - [vertica-geospatial](https://github.com/vertica/Vertica-Geospatial) - Geospatial example applications.
  - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates) - AMI build templates.
- 
+ - [vertica-geospatial](https://github.com/vertica/Vertica-Geospatial) - Geospatial example applications.
+ - [vertica-machine-learning-examples](https://github.com/vertica/Machine-Learning-Examples) - In-database machine learning examples.
+  
 ## Integrations
+ - [Apache NiFi](http://nifi.apache.org/download.html) - Data integration & ETL platform.
+ - [DBVisualizer](https://www.dbvis.com/download) - Java-based SQL IDE 
+ - [DBeaver](https://dbeaver.io/download/) - Java-based SQL IDE
+ - [H2O Flow](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html) - Analytics & data science platform.
+ - [JasperSoft](https://community.jaspersoft.com/) - Analytics, BI & ETL platform.
+ - [Knime](https://www.knime.com/downloads/download-knime) - Analytics & data science platform.
+ - [Pentaho](https://community.hitachivantara.com/s/article/downloads) - Analytics, BI and ETL platform.
+ - [RapidMiner](https://my.rapidminer.com/nexus/account/index.html) - Analytics & data science platform.
+ - [SQuirrel SQL](http://squirrel-sql.sourceforge.net/) - Java-based SQL IDE
  - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A data source for Grafana.
 
 ## Other Resources
- - [Vertica Forums](https://forum.vertica.com/) - The official community forums.
  - [Vertica Academy](https://academy.vertica.com/) - Free self-paced online Vertica courses.
  - [Vertica Blog](https://www.vertica.com/blog/) - The official blog.
  - [Vertica Documentation](https://www.vertica.com/docs/latest/HTML/Content/Home.htm) - The official documentation.
  - [Vertica Knowledgebase](https://www.vertica.com/knowledgebase/) - Short how-to's, integration guides and best practices articles.
-
+ - [Vertica Forums](https://forum.vertica.com/) - The official community forums.
 
  
