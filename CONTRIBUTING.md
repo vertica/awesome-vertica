@@ -15,7 +15,7 @@ This list accepts and encourages pull requests.
 - Suggested packages/projects should be tested and documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[item](link) - Short description.`
-- Each item should have only one link.
+- Each item should have one link.
 - Start the description with a capital and end with a period.
 - Don't mention `vertica` in the description as it's implied.
 - Remove trailing whitespace.
