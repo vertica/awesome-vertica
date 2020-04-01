@@ -7,15 +7,15 @@ This list accepts and encourages pull requests.
 - You may add, remove, or change:
   - Categories
   - Items
-- **To add, remove, or change things on the list:** Submit a pull request to [README.md](README.md), add comment explaining the reasoning behind the change. One pull request for one item.
+- **To add, remove, or change things on the list:** Submit a pull request to [README.md](README.md) with a comment explaining the reasoning behind the change. Make one pull request for each item.
 
 ### Pull request guidelines
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested project/package should be tested and documented.
+- Suggested packages/projects should be tested and documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[item](link) - Short description.`
-- Each item should be limited to one link.
+- Each item should have one link.
 - Start the description with a capital and end with a period.
 - Don't mention `vertica` in the description as it's implied.
 - Remove trailing whitespace.
