@@ -11,7 +11,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [Examples](#examples)
  - [Integrations](#integrations)
  - [Other Resources](#other-resources)
- 
+
 ## Clients
  - [vertica-python](https://github.com/vertica/vertica-python) - Official Python driver.
  - [vertica-sql-go](https://github.com/vertica/vertica-sql-go) - Official Go driver.
@@ -25,24 +25,25 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
 ## UDXs
  - [vertica-extension-packages](https://github.com/vertica/Vertica-Extension-Packages) - Official UDX samples.
  - [vertica-hyperloglog](https://github.com/criteo/vertica-hyperloglog) - HyperLogLog (approximate count distinct) UDX.
- 
+
 ## Examples
  - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates) - AMI build templates.
  - [vertica-geospatial](https://github.com/vertica/Vertica-Geospatial) - Geospatial example applications.
  - [vertica-machine-learning-examples](https://github.com/vertica/Machine-Learning-Examples) - In-database machine learning examples.
-  
+
 ## Integrations
  - [Apache NiFi](http://nifi.apache.org/download.html) - Data integration & ETL platform.
  - [DataGrip](https://www.jetbrains.com/datagrip/) - JDBC-based SQL IDE (Commercial Software).
  - [DBVisualizer](https://www.dbvis.com/download/) - JDBC-based SQL IDE.
  - [DBeaver](https://dbeaver.io/download/) - JDBC-based SQL IDE.
  - [H2O Flow](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html) - Analytics & data science platform (Commercial Software).
- - [JasperSoft](https://community.jaspersoft.com/) - Analytics, BI & ETL platform (Commercial Software). 
+ - [JasperSoft](https://community.jaspersoft.com/) - Analytics, BI & ETL platform (Commercial Software).
  - [Knime](https://www.knime.com/downloads/download-knime) - Analytics & data science platform (Commercial Software).
  - [Pentaho](https://community.hitachivantara.com/s/article/downloads) - Analytics, BI and ETL platform (Commercial Software).
  - [RapidMiner](https://my.rapidminer.com/nexus/account/index.html) - Analytics & data science platform (Commercial Software).
  - [SQuirrel SQL](http://squirrel-sql.sourceforge.net/) - JDBC-based SQL IDE.
  - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A data source for Grafana.
+ - [vertica-snippets](https://github.com/baron42bba/vertica-snippets) - SQL code snippets for Emacs.
 
 ## Other Resources
  - [Vertica Academy](https://academy.vertica.com/) - Free self-paced online Vertica courses.
@@ -50,5 +51,3 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [Vertica Documentation](https://www.vertica.com/docs/latest/HTML/Content/Home.htm) - The official documentation.
  - [Vertica Knowledge Base](https://www.vertica.com/knowledgebase/) - Short how-to's, integration guides, and best practices articles.
  - [Vertica Forum](https://forum.vertica.com/) - The official community forum.
-
- 
