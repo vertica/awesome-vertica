@@ -49,6 +49,6 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [Vertica Blog](https://www.vertica.com/blog/) - The official blog.
  - [Vertica Documentation](https://www.vertica.com/docs/latest/HTML/Content/Home.htm) - The official documentation.
  - [Vertica Knowledgebase](https://www.vertica.com/knowledgebase/) - Short how-to's, integration guides and best practices articles.
- - [Vertica Forums](https://forum.vertica.com/) - The official community forums.
+ - [Vertica Forum](https://forum.vertica.com/) - The official community forum.
 
  
