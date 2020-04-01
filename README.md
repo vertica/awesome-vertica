@@ -20,7 +20,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
 ## Tools
  - [d2l](https://github.com/marco-the-sane/d2l) - Infer table DDL from csv-like files.
  - [QueryParser](https://github.com/uber/queryparser) - Library to parse Vertica, Hive, and Presto SQL.
- - [vertica-ml-python](https://github.com/vertica/Vertica-ML-Python) - Vertica machine learning toolkit.
+ - [vertica-ml-python](https://github.com/vertica/Vertica-ML-Python) - Machine learning toolkit.
 
 ## UDXs
  - [vertica-extension-packages](https://github.com/vertica/Vertica-Extension-Packages) - Official UDX samples.
@@ -28,10 +28,10 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  
 ## Examples
  - [vertica-geospatial](https://github.com/vertica/Vertica-Geospatial) - Geospatial example applications.
- - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates)- Vertica AMI build templates.
+ - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates) - AMI build templates.
  
 ## Integrations
- - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A Vertica data source for Grafana.
+ - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A data source for Grafana.
 
 ## Other Resources
  - [Vertica Forums](https://forum.vertica.com/) - The official community forums.
