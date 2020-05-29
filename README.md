@@ -25,6 +25,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
 ## UDXs
  - [vertica-extension-packages](https://github.com/vertica/Vertica-Extension-Packages) - Official UDX samples.
  - [vertica-hyperloglog](https://github.com/criteo/vertica-hyperloglog) - HyperLogLog (approximate count distinct) UDX.
+ - [vertica-plsql](https://github.com/dingqiangliu/vertica-plsql) - Stored PL/SQL procedure in database or external.
 
 ## Examples
  - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates) - AMI build templates.
