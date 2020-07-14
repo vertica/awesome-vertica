@@ -20,7 +20,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
 ## Tools
  - [d2l](https://github.com/marco-the-sane/d2l) - Infer table DDL from csv-like files.
  - [QueryParser](https://github.com/uber/queryparser) - Library to parse Vertica, Hive, and Presto SQL.
- - [vertica-ml-python](https://github.com/vertica/Vertica-ML-Python) - Machine learning toolkit.
+ - [VerticaPy](https://github.com/vertica/VerticaPy) - Machine learning toolkit.
 
 ## UDXs
  - [vertica-extension-packages](https://github.com/vertica/Vertica-Extension-Packages) - Official UDX samples.
