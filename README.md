@@ -10,6 +10,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [UDXs](#udxs)
  - [Examples](#examples)
  - [Integrations](#integrations)
+ - [Deployments](#deployments)
  - [Other Resources](#other-resources)
 
 ## Clients
@@ -45,6 +46,9 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [SQuirrel SQL](http://squirrel-sql.sourceforge.net/) - JDBC-based SQL IDE.
  - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A data source for Grafana.
  - [vertica-snippets](https://github.com/baron42bba/vertica-snippets) - SQL code snippets for Emacs.
+
+## Deployments
+ - [docker-vertica](https://github.com/francoisjehl/docker-vertica) - Docker image targetted at UDF development.
 
 ## Other Resources
  - [Vertica Academy](https://academy.vertica.com/) - Free self-paced online Vertica courses.
