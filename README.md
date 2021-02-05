@@ -20,6 +20,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
 
 ## Tools
  - [d2l](https://github.com/marco-the-sane/d2l) - Infer table DDL from csv-like files.
+ - [verticareader](https://github.com/joeygibson/verticareader) - Convert native binary files to CSV files.
  - [QueryParser](https://github.com/uber/queryparser) - Library to parse Vertica, Hive, and Presto SQL.
  - [VerticaPy](https://github.com/vertica/VerticaPy) - Machine learning toolkit.
 
