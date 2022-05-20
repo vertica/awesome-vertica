@@ -35,6 +35,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates) - AMI build templates.
  - [vertica-geospatial](https://github.com/vertica/Vertica-Geospatial) - Geospatial example applications.
  - [vertica-machine-learning-examples](https://github.com/vertica/Machine-Learning-Examples) - In-database machine learning examples.
+ - [client-application-examples](https://github.com/vertica/client-application-examples) - Examples for connecting to Vertica in various clients, drivers and programming languages. 
 
 ## Integrations
  - [Apache NiFi](http://nifi.apache.org/download.html) - Data integration & ETL platform.
