@@ -45,9 +45,9 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [H2O Flow](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html) - Analytics & data science platform (Commercial Software).
  - [JasperSoft](https://community.jaspersoft.com/) - Analytics, BI & ETL platform (Commercial Software).
  - [Knime](https://www.knime.com/downloads) - Analytics & data science platform (Commercial Software).
- - [Pentaho](https://community.hitachivantara.com/s/article/downloads) - Analytics, BI and ETL platform (Commercial Software).
+ - [Pentaho](https://community.hitachivantara.com/home) - Analytics, BI and ETL platform (Commercial Software).
  - [RapidMiner](https://my.rapidminer.com/nexus/account/index.html) - Analytics & data science platform (Commercial Software).
- - [SQuirrel SQL](https://squirrel-sql.sourceforge.net/) - JDBC-based SQL IDE.
+ - [SQuirrel SQL](https://squirrel-sql.sourceforge.io/) - JDBC-based SQL IDE.
  - [SQLS Language Server](https://github.com/lighttiger2505/sqls) - Language Server Protocol for SQL. [open pull request for Vertica](https://github.com/lighttiger2505/sqls/pull/95)
  - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A data source for Grafana.
  - [vertica-snippets](https://github.com/baron42bba/vertica-snippets) - SQL code snippets for Emacs.
