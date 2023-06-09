@@ -38,16 +38,16 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [client-application-examples](https://github.com/vertica/client-application-examples) - Examples for connecting to Vertica in various clients, drivers and programming languages. 
 
 ## Integrations
- - [Apache NiFi](http://nifi.apache.org/download.html) - Data integration & ETL platform.
+ - [Apache NiFi](https://nifi.apache.org/download.html) - Data integration & ETL platform.
  - [DataGrip](https://www.jetbrains.com/datagrip/) - JDBC-based SQL IDE (Commercial Software).
  - [DBVisualizer](https://www.dbvis.com/download/) - JDBC-based SQL IDE.
  - [DBeaver](https://dbeaver.io/download/) - JDBC-based SQL IDE.
- - [H2O Flow](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html) - Analytics & data science platform (Commercial Software).
+ - [H2O Flow](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html) - Analytics & data science platform (Commercial Software).
  - [JasperSoft](https://community.jaspersoft.com/) - Analytics, BI & ETL platform (Commercial Software).
- - [Knime](https://www.knime.com/downloads/download-knime) - Analytics & data science platform (Commercial Software).
+ - [Knime](https://www.knime.com/downloads) - Analytics & data science platform (Commercial Software).
  - [Pentaho](https://community.hitachivantara.com/s/article/downloads) - Analytics, BI and ETL platform (Commercial Software).
  - [RapidMiner](https://my.rapidminer.com/nexus/account/index.html) - Analytics & data science platform (Commercial Software).
- - [SQuirrel SQL](http://squirrel-sql.sourceforge.net/) - JDBC-based SQL IDE.
+ - [SQuirrel SQL](https://squirrel-sql.sourceforge.net/) - JDBC-based SQL IDE.
  - [SQLS Language Server](https://github.com/lighttiger2505/sqls) - Language Server Protocol for SQL. [open pull request for Vertica](https://github.com/lighttiger2505/sqls/pull/95)
  - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A data source for Grafana.
  - [vertica-snippets](https://github.com/baron42bba/vertica-snippets) - SQL code snippets for Emacs.
