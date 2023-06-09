@@ -48,6 +48,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [Pentaho](https://community.hitachivantara.com/s/article/downloads) - Analytics, BI and ETL platform (Commercial Software).
  - [RapidMiner](https://my.rapidminer.com/nexus/account/index.html) - Analytics & data science platform (Commercial Software).
  - [SQuirrel SQL](http://squirrel-sql.sourceforge.net/) - JDBC-based SQL IDE.
+ - [SQLS Language Server](https://github.com/lighttiger2505/sqls) - Language Server Protocol for SQL. [open pull request for Vertica](https://github.com/lighttiger2505/sqls/pull/95)
  - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A data source for Grafana.
  - [vertica-snippets](https://github.com/baron42bba/vertica-snippets) - SQL code snippets for Emacs.
 
