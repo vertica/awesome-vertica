@@ -9,13 +9,13 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Set up Ruby 
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7'
+          ruby-version: '3.2'
       - name: Install dependencies
         run: gem install awesome_bot
       - name: Run tests
         run: |
-          awesome_bot README.md --white-list https://awesome.re,https://github.com/vertica/awesome-vertica,https://www.vertica.com/docs/latest/HTML/Content/Home.htm,www.dbvis.com,community.hitachivantara.com
+          awesome_bot README.md --white-list https://awesome.re,https://github.com/vertica/awesome-vertica,https://www.vertica.com/docs/latest/HTML/Content/Home.htm,community.jaspersoft.com,community.hitachivantara.com
