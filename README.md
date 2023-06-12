@@ -16,6 +16,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
 ## Clients
  - [vertica-python](https://github.com/vertica/vertica-python) - Official Python driver.
  - [vertica-sql-go](https://github.com/vertica/vertica-sql-go) - Official Go driver.
+ - [vertica-nodejs](https://github.com/vertica/vertica-nodejs) - Official Nodejs driver.
  - [vcli](https://github.com/dbcli/vcli) - CLI with auto-completion and syntax highlighting.
 
 ## Tools
@@ -30,6 +31,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [vertica-extension-packages](https://github.com/vertica/Vertica-Extension-Packages) - Official UDX samples.
  - [vertica-hyperloglog](https://github.com/criteo/vertica-hyperloglog) - HyperLogLog (approximate count distinct) UDX.
  - [vertica-plsql](https://github.com/dingqiangliu/vertica-plsql) - Stored PL/SQL procedure in database or external.
+ - [ODBC-Loader](https://github.com/vertica/ODBC-Loader) - User-Defined Load functions to load/query the external database.
 
 ## Examples
  - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates) - AMI build templates.
