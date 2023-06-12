@@ -32,6 +32,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [vertica-hyperloglog](https://github.com/criteo/vertica-hyperloglog) - HyperLogLog (approximate count distinct) UDX.
  - [vertica-plsql](https://github.com/dingqiangliu/vertica-plsql) - Stored PL/SQL procedure in database or external.
  - [ODBC-Loader](https://github.com/vertica/ODBC-Loader) - User-Defined Load functions to load/query the external database.
+ - [dblink](https://github.com/vertica/dblink) - User-Defined Transform Function to run SQL against other databases via ODBC.
 
 ## Examples
  - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates) - AMI build templates.
