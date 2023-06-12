@@ -55,6 +55,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [vertica-snippets](https://github.com/baron42bba/vertica-snippets) - SQL code snippets for Emacs.
 
 ## Deployments
+ - [Docker Images](https://hub.docker.com/u/vertica) - Official images on Docker Hub.
  - [docker-vertica](https://github.com/francoisjehl/docker-vertica) - Docker image targetted at UDF development.
 
 ## Other Resources
