@@ -63,3 +63,4 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [Vertica Documentation](https://www.vertica.com/docs/latest/HTML/Content/Home.htm) - The official documentation.
  - [Vertica Knowledge Base](https://www.vertica.com/knowledgebase/) - Short how-to's, integration guides, and best practices articles.
  - [Vertica Forum](https://forum.vertica.com/) - The official community forum.
+ - [Vertica Integrator's Guide](https://integrators.vertica.com/) - Integration guides, tips and strategies about provisioning, monitoring, management, storage, clients, loaders, and other tools.
