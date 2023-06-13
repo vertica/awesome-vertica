@@ -16,6 +16,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
 ## Clients
  - [vertica-python](https://github.com/vertica/vertica-python) - Official Python driver.
  - [vertica-sql-go](https://github.com/vertica/vertica-sql-go) - Official Go driver.
+ - [vertica-nodejs](https://github.com/vertica/vertica-nodejs) - Official Nodejs driver.
  - [vcli](https://github.com/dbcli/vcli) - CLI with auto-completion and syntax highlighting.
 
 ## Tools
@@ -30,6 +31,8 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [vertica-extension-packages](https://github.com/vertica/Vertica-Extension-Packages) - Official UDX samples.
  - [vertica-hyperloglog](https://github.com/criteo/vertica-hyperloglog) - HyperLogLog (approximate count distinct) UDX.
  - [vertica-plsql](https://github.com/dingqiangliu/vertica-plsql) - Stored PL/SQL procedure in database or external.
+ - [ODBC-Loader](https://github.com/vertica/ODBC-Loader) - User-Defined Load functions to load/query the external database.
+ - [dblink](https://github.com/vertica/dblink) - User-Defined Transform Function to run SQL against other databases via ODBC.
 
 ## Examples
  - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates) - AMI build templates.
@@ -53,6 +56,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [vertica-snippets](https://github.com/baron42bba/vertica-snippets) - SQL code snippets for Emacs.
 
 ## Deployments
+ - [Docker Images](https://hub.docker.com/u/vertica) - Official images on Docker Hub.
  - [docker-vertica](https://github.com/francoisjehl/docker-vertica) - Docker image targetted at UDF development.
 
 ## Other Resources
@@ -61,3 +65,4 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [Vertica Documentation](https://www.vertica.com/docs/latest/HTML/Content/Home.htm) - The official documentation.
  - [Vertica Knowledge Base](https://www.vertica.com/knowledgebase/) - Short how-to's, integration guides, and best practices articles.
  - [Vertica Forum](https://forum.vertica.com/) - The official community forum.
+ - [Vertica Integrator's Guide](https://integrators.vertica.com/) - Integration guides, tips and strategies about provisioning, monitoring, management, storage, clients, loaders, and other tools.
