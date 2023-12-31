@@ -39,7 +39,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [vertica-ami-packer-templates](https://github.com/vertica/Vertica-AMI-Packer-Templates) - AMI build templates.
  - [vertica-geospatial](https://github.com/vertica/Vertica-Geospatial) - Geospatial example applications.
  - [vertica-machine-learning-examples](https://github.com/vertica/Machine-Learning-Examples) - In-database machine learning examples.
- - [client-application-examples](https://github.com/vertica/client-application-examples) - Examples for connecting to Vertica in various clients, drivers and programming languages. 
+ - [client-application-examples](https://github.com/vertica/client-application-examples) - Examples for connecting to Vertica in various clients, drivers and programming languages.
 
 ## Integrations
  - [Apache NiFi](https://nifi.apache.org/download.html) - Data integration & ETL platform.
@@ -52,7 +52,7 @@ Contributions are welcome. Please take a look at the [contribution guidelines](C
  - [Pentaho](https://community.hitachivantara.com/home) - Analytics, BI and ETL platform (Commercial Software).
  - [RapidMiner](https://my.rapidminer.com/nexus/account/index.html) - Analytics & data science platform (Commercial Software).
  - [SQuirrel SQL](https://squirrel-sql.sourceforge.io/) - JDBC-based SQL IDE.
- - [SQLS Language Server](https://github.com/lighttiger2505/sqls) - Language Server Protocol for SQL. [open pull request for Vertica](https://github.com/lighttiger2505/sqls/pull/95)
+ - [SQLS Language Server](https://github.com/sqls-server/sqls) - Language Server Protocol for SQL.
  - [vertica-grafana-datasource](https://github.com/vertica/vertica-grafana-datasource) - A data source for Grafana.
  - [vertica-snippets](https://github.com/baron42bba/vertica-snippets) - SQL code snippets for Emacs.
 
